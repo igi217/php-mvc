@@ -40,10 +40,7 @@ CREATE TABLE `users` (
 -- Dumping data for table `users`
 --
 
-INSERT INTO `users` (`id`, `name`, `username`, `password`, `created_at`, `updated_at`) VALUES
-(2, 'Satadeep Dasgupta', 'admin', 'e10adc3949ba59abbe56e057f20f883e', '2023-04-21 05:31:43', '2023-04-21 05:31:43'),
-(3, 'Satadeep Dasgupta', 'admin1', 'e10adc3949ba59abbe56e057f20f883e', '2023-04-21 05:52:27', '2023-04-21 05:52:27'),
-(4, 'Sneha', 'sneha', 'e10adc3949ba59abbe56e057f20f883e', '2023-04-21 05:57:39', '2023-04-21 05:57:39');
+
 
 --
 -- Indexes for dumped tables
